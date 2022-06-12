@@ -1,2 +1,2 @@
-# DynamicMenu
-Dynamic navigation for phones
+# Theme Toggler
+Light, dark, solar mode theme toggler
